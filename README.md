@@ -11,7 +11,7 @@ Intuitive user interface for easy navigation and interaction.
 
 ## How to use 
 
-- To use this application, simply go to the following link:
+- To use this application, simply go to the following link: https://tree-visualizer.000webhostapp.com/
 
 ## Installation
 
