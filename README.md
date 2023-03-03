@@ -9,7 +9,7 @@ Generate data structures from user input.
 Zoom in and out of visualizations.
 Intuitive user interface for easy navigation and interaction.
 
-##How to use 
+## How to use 
 
 - To use this application, simply go to the following link:
 
